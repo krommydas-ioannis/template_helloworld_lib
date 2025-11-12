@@ -19,3 +19,4 @@ classifiers = [
 Repository = "https://github.com/krommydas-ioannis/template_helloworld_lib"
 [tool.setuptools]
 packages = ["template_helloworld_lib"]
+package-dir = {"" = "src"}
