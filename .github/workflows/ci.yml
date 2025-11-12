@@ -16,4 +16,4 @@ jobs:
           python-version: "3.9"
 
       - name: Test with unittest
-        run: python .\tests\test_helloworld.py
+        run: python ./tests/test_helloworld.py
