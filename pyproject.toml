@@ -14,8 +14,7 @@ license = "Apache-2.0"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
-    "Topic :: Software Development :: Libraries",
-    "License :: OSI Approved :: Apache Software License"
+    "Topic :: Software Development :: Libraries"
 ]
 [project.urls]
 Repository = "https://github.com/krommydas-ioannis/template_helloworld_lib"
